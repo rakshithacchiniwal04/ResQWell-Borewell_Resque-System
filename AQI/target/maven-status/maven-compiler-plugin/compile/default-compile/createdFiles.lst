@@ -1,0 +1,6 @@
+com/aqimonitor/AqiMonitorApplication.class
+com/aqimonitor/service/AirQualityServiceImpl.class
+com/aqimonitor/model/SensorReading.class
+com/aqimonitor/controller/HomeController.class
+com/aqimonitor/service/AirQualityService.class
+com/aqimonitor/controller/SensorController.class

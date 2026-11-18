@@ -1,0 +1,6 @@
+/home/randomx/AQI/src/main/java/com/aqimonitor/AqiMonitorApplication.java
+/home/randomx/AQI/src/main/java/com/aqimonitor/controller/HomeController.java
+/home/randomx/AQI/src/main/java/com/aqimonitor/controller/SensorController.java
+/home/randomx/AQI/src/main/java/com/aqimonitor/model/SensorReading.java
+/home/randomx/AQI/src/main/java/com/aqimonitor/service/AirQualityService.java
+/home/randomx/AQI/src/main/java/com/aqimonitor/service/AirQualityServiceImpl.java
